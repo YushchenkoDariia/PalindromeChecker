@@ -1,0 +1,10 @@
+D:\PalindromeChecker\PalindromeChecker\bin\Debug\PalindromeChecker.exe.config
+D:\PalindromeChecker\PalindromeChecker\bin\Debug\PalindromeChecker.exe
+D:\PalindromeChecker\PalindromeChecker\bin\Debug\PalindromeChecker.pdb
+D:\PalindromeChecker\PalindromeChecker\obj\Debug\PalindromeChecker.csproj.AssemblyReference.cache
+D:\PalindromeChecker\PalindromeChecker\obj\Debug\PalindromeChecker.Form1.resources
+D:\PalindromeChecker\PalindromeChecker\obj\Debug\PalindromeChecker.Properties.Resources.resources
+D:\PalindromeChecker\PalindromeChecker\obj\Debug\PalindromeChecker.csproj.GenerateResource.cache
+D:\PalindromeChecker\PalindromeChecker\obj\Debug\PalindromeChecker.csproj.CoreCompileInputs.cache
+D:\PalindromeChecker\PalindromeChecker\obj\Debug\PalindromeChecker.exe
+D:\PalindromeChecker\PalindromeChecker\obj\Debug\PalindromeChecker.pdb
